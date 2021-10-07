@@ -1,6 +1,6 @@
-<p align="center">
+<h2 align="center">
   Articles
-</p>
+</h2>
 
 
 
